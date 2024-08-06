@@ -1,0 +1,23 @@
+{
+    "Comprar leche": {
+        "descripcion": "Comprar leche",
+        "fecha_vencimiento": "2024-08-01",
+        "estado": "completada"
+    },
+    "Bootcamp MuniJoven": {
+        "descripcion": "Bootcamp MuniJoven",
+        "fecha_vencimiento": "2024-11-15",
+        "estado": "Bootcamp"
+    },
+    "Estudiar Python": {
+        "descripcion": "Estudiar Python",
+        "fecha_vencimiento": "2025-01-01",
+        "estado": "pendiente",
+        "frecuencia": "5 veces por semana"
+    },
+    "Entregar desafio": {
+        "descripcion": "Entregar desafio",
+        "fecha_vencimiento": "2024-08-05",
+        "estado": "pendiente"
+    }
+}
